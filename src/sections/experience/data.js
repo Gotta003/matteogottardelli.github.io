@@ -3,7 +3,7 @@ export const experience = [
     date: '2026',
     title: 'Resolver \u2014 Meditech Challenge',
     org: 'HUB Trento Innovation \u2014 Trento, Italy',
-    result: '2nd place',
+    result: '1st place',
     body: 'Built PINNACLE-EVAR, a Physics-Informed Neural Network solution predicting post-operative adverse events from CFD blood-flow simulation, for the challenge \u201cCFD Simulation for Blood Flow and Wall Shear Stress Prediction.\u201d',
     bullets: [
       'Designed data processing & feature extraction from CFD simulations',
